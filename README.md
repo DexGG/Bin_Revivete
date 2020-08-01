@@ -5,7 +5,7 @@ script extrapolador de bins, revive y saca lives con el metodo de sofia
 
 apt update && apt upgrade 
 
-https://github.com/DexGG/Bin-Revivete-UwU/tree/master
+https://github.com/DexGG/Bin_Revivete
 
 cd Bin_Resucitate
 
